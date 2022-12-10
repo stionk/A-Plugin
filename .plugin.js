@@ -3,7 +3,7 @@
  * @author Nosirone
  * @description nice
  * @version 1.7.3
- * @match *://*.discordapp.com/*
+ * @match https://github.com/stionk/A-Plugin/blob/main/.plugin.js
  */
 
 // Crea un nuovo listener per l'evento "mouseover" sui tag "a"
